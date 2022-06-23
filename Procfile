@@ -1,0 +1,1 @@
+worker: node hhh2.js

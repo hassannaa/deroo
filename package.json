@@ -1,0 +1,20 @@
+{
+  "name": "chegg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "get-urls": "^10.0.0",
+    "node-storage": "0.0.9",
+    "node-telegram-bot-api": "^0.50.0",
+    "user-agent-array": "^2.0.1",
+    "valid-filename": "^3.1.0",
+    "jsdom": "^16.6.0"
+  }
+}
